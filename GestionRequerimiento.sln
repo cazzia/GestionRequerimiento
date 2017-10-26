@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa Presentation", "GestionRequerimiento\Capa Presentation.csproj", "{8B95F305-6E65-4161-BCC0-94BBDBA019BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa Acceso Datos", "AccesoDatos\Capa Acceso Datos.csproj", "{C1F756EF-8562-4C02-AEB4-AE2A701F5711}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa Interface", "Capa Interface\Capa Interface.csproj", "{E79B482F-601F-4FA5-8083-331E986E8756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa LogicaNegocio", "Logica Negocio\Capa LogicaNegocio.csproj", "{30AE8B14-5020-42FF-AB93-04C892179C82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B95F305-6E65-4161-BCC0-94BBDBA019BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B95F305-6E65-4161-BCC0-94BBDBA019BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B95F305-6E65-4161-BCC0-94BBDBA019BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B95F305-6E65-4161-BCC0-94BBDBA019BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F756EF-8562-4C02-AEB4-AE2A701F5711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F756EF-8562-4C02-AEB4-AE2A701F5711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F756EF-8562-4C02-AEB4-AE2A701F5711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F756EF-8562-4C02-AEB4-AE2A701F5711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E79B482F-601F-4FA5-8083-331E986E8756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E79B482F-601F-4FA5-8083-331E986E8756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E79B482F-601F-4FA5-8083-331E986E8756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E79B482F-601F-4FA5-8083-331E986E8756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30AE8B14-5020-42FF-AB93-04C892179C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30AE8B14-5020-42FF-AB93-04C892179C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30AE8B14-5020-42FF-AB93-04C892179C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30AE8B14-5020-42FF-AB93-04C892179C82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cazzia.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AccesoDatos\\Capa\u0020Acceso\u0020Datos.csproj
+		SccProjectName1 = AccesoDatos
+		SccLocalPath1 = AccesoDatos
+		SccProjectUniqueName2 = Capa\u0020Interface\\Capa\u0020Interface.csproj
+		SccProjectName2 = Capa\u0020Interface
+		SccLocalPath2 = Capa\u0020Interface
+		SccProjectUniqueName3 = GestionRequerimiento\\Capa\u0020Presentation.csproj
+		SccProjectName3 = GestionRequerimiento
+		SccLocalPath3 = GestionRequerimiento
+		SccProjectUniqueName4 = Logica\u0020Negocio\\Capa\u0020LogicaNegocio.csproj
+		SccProjectName4 = Logica\u0020Negocio
+		SccLocalPath4 = Logica\u0020Negocio
+	EndGlobalSection
+EndGlobal
